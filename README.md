@@ -7,8 +7,9 @@ Não existe contribuição pequena — corrigir bugs e editar a documentação s
 Para participar no nosso evento de 2018, confirma a tua presença no nosso [meetup](https://www.meetup.com/Mozdevz/events/254945848/).
 
 ## Participantes
-- [Rosário Pereira Fernandes](https://github.com/rosariopfernandes)
+- 
 - [Lars Albino Lemos](https://github.com/larslemos)
+- [Muhammad Warid](https://github.com/MuhammadWarid)
 
 ### Adiciona o teu nome
 Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
