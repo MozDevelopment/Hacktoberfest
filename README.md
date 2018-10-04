@@ -9,7 +9,7 @@ Para participar no nosso evento de 2018, confirma a tua presença no nosso [meet
 ## Participantes
 
 - [Lars Albino Lemos](https://github.com/larslemos)
-- [Celso Munguno Manhique](https://github.com/larslemos)
+- [Celso Munguno Manhique](https://github.com/celsom)
 
 ### Adiciona o teu nome
 Estiveste presente no evento? Manda um Pull Request adicionando o teu nome na lista acima.
